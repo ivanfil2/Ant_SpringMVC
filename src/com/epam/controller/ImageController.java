@@ -78,6 +78,8 @@ public class ImageController {
 		// --- Finish of file receiving, validating, writing...
 		return "createForm";
 	}
+	
+	//asd
 
 	/**
 	 * This method execute GET requests for shows the list of images
